@@ -1,1 +1,1 @@
-# bazel-training
+# oo-training-v2
